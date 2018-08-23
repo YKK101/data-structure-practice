@@ -11,3 +11,6 @@
 - `peek(): object` แสดงค่าของ object ที่อยู่บนสุดของ stack และจะถูกเรียกใช้เป็นตัวถัดไป
 - `push(object): void` เพิ่มข้อมูลใหม่เข้าไปยัง stack
 - `pop(): object` ดึงข้อมูลตัวบนสุดออกมาจาก stack
+
+## Implementation
+[Go to stack.py](./stack.py)
