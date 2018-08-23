@@ -6,7 +6,7 @@
 - `size: int` ระบุจำนวนของข้อมูลทั้งหมดที่ถูกเก็บอยู่ใน stack
 - `list: Array` array ของข้อมูลทั้งหมดใน stack
 
-## Method
+## Methods
 - `count(): int` คืนจำนวนข้อมูลทั้งหมดที่ถูกเก็บอยู่ใน stack
 - `peek(): object` แสดงค่าของ object ที่อยู่บนสุดของ stack และจะถูกเรียกใช้เป็นตัวถัดไป
 - `push(object): void` เพิ่มข้อมูลใหม่เข้าไปยัง stack
